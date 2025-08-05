@@ -13,7 +13,7 @@ My Developer Portfolio
 
 📫 How to reach me:
 - Email: sakshipal2028@email.com
-- GitHub: [@sakshipal](https://github.com/sakshipal)
+- GitHub: [@sakshipal28](https://github.com/sakshipal)
 
 ---
 
