@@ -12,7 +12,7 @@ My Developer Portfolio
 - 🧠 Learning Machine Learning basics
 
 📫 How to reach me:
-- Email: sakshipal@email.com
+- Email: sakshipal2028@email.com
 - GitHub: [@sakshipal](https://github.com/sakshipal)
 
 ---
@@ -39,9 +39,9 @@ My Developer Portfolio
 ---
 
 ### 📜 Certifications
-- Google Python Basics ✅
-- AI For Everyone by Andrew Ng ✅
-- More coming soon...
+- Digital quiz
+- Digital Calculator
+- More comming soon..
 
 ---
 
