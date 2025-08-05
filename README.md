@@ -12,7 +12,7 @@ My Developer Portfolio
 - 🧠 Learning Machine Learning basics
 
 📫 How to reach me:
-- Email: sakshipal2028@email.com
+- Email: sakshipanwar2028@email.com
 - GitHub: [@sakshipal28](https://github.com/sakshipal)
 
 ---
